@@ -40,10 +40,10 @@ The scripts within this repository enable users to:
 
 ## Features ✨
 
-- **Updating**: Fetch the latest exit node listings from the Tor network. 🚀
-- **User-Friendly**: Simplified Python scripts that require minimal setup and technical knowledge—perfect for everyone! 👍
-- **Extendable Framework**: Easily modifiable to add features or monitor additional exit nodes based on your needs. 🔧
-- **Community Contributions**: I encourage collaboration! 🤝 Users can contribute by sharing their monitored exit nodes or improving the existing scripts.
+- [ ] **Updating**: Fetch the latest exit node listings from the Tor network. 🚀
+- [ ] **User-Friendly**: Simplified Python scripts that require minimal setup and technical knowledge—perfect for everyone! 👍
+- [ ] **Extendable Framework**: Easily modifiable to add features or monitor additional exit nodes based on your needs. 🔧
+- [ ] **Community Contributions**: I encourage collaboration! 🤝 Users can contribute by sharing their monitored exit nodes or improving the existing scripts.
 
 ## Getting Started 🏁
 
