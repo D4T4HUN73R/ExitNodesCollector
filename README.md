@@ -1,6 +1,6 @@
 # ExitNodesCollector 🌐🔍
 
-Welcome to **ExitNodesCollector**! 🎉 This repository is a collection of handy scripts designed for system administrators and network professionals who need access to current exit nodes of different networks. Here, you’ll find tools to help you monitor these exit nodes, which can be crucial for managing network security, compliance, and overall stewardship of your digital environment. 
+Welcome to **ExitNodesCollector**! 🎉 This repository is a collection of handy scripts designed for system administrators and network professionals who need access to current unique exit nodes of different networks. Here, you’ll find tools to help you monitor these exit nodes, which can be crucial for managing network security, compliance, and overall stewardship of your digital environment. 
 
 ## Overview 🛠️
 
@@ -47,7 +47,7 @@ The scripts within this repository enable users to:
 
 ## Getting Started 🏁
 
-To get started, just clone the repository and run the provided scripts according to the instructions. You'll be fetching and monitoring Tor exit nodes in no time! ⏱️
+To get started, just clone the repository and run the provided scripts according to the instructions. You'll be fetching and monitoring unique exit nodes in no time! ⏱️
 
 Feel free to raise issues, suggest enhancements, or submit pull requests to improve the functionality of this project. Let's build a more robust toolset together! 🌟
 
@@ -61,4 +61,4 @@ Feel free to raise issues, suggest enhancements, or submit pull requests to impr
 
 ### Acknowledgments 🙏
 
-Thank you for your interest in **ExitNodesCollector**! We hope these tools provide the functionality you need to manage Tor exit nodes effectively. Your contributions are welcome and encouraged! 💡
+Thank you for your interest in **ExitNodesCollector**! We hope these tools provide the functionality you need to manage exit nodes effectively. Your contributions are welcome and encouraged! 💡
