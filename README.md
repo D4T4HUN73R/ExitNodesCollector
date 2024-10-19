@@ -1,4 +1,5 @@
-# ExitNodesCollector 🌐🔍 ⚠️🚧 UNDER CONSTRUCTION 🚧⚠️
+# ExitNodesCollector 🌐🔍 
+⚠️🚧 UNDER CONSTRUCTION 🚧⚠️
 
 Welcome to **ExitNodesCollector**! 🎉 This repository is a collection of handy scripts designed for system administrators and network professionals who need access to current unique exit nodes of different networks. Here, you’ll find tools to help you monitor these exit nodes, which can be crucial for managing network security, compliance, and overall stewardship of your digital environment. 
 
