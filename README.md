@@ -15,10 +15,10 @@ The scripts within this repository enable users to:
 ## Currently Monitored Nodes 📡
 
 - **Tor Network**: ✅ Monitored
+- **Proton VPN Service**: ✅ Monitored
 
 ### VPN Services 🚀
 
-- **Proton VPN Service**: ❌ Currently not Monitored
 - **NordVPN**: ❌ Currently not Monitored
 - **ExpressVPN**: ❌ Currently not Monitored
 - **CyberGhost VPN**: ❌ Currently not Monitored
